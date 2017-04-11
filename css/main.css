@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+nav ul {
+    list-style-type: none;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
