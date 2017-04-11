@@ -20,6 +20,7 @@ nav ul {
 .container {
     max-width: 1200px;
     margin: 0 auto;
+    background-color: #f4f4f0;
 }
 
 .visuallyhidden {
