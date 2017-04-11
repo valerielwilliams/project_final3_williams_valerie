@@ -8,6 +8,9 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background: url(../img/storefront.png) repeat;
+}
 
 nav ul {
     list-style-type: none;
