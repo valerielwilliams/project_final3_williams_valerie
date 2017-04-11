@@ -23,6 +23,11 @@ nav ul {
     background-color: #f4f4f0;
 }
 
+#botd {
+    background: url(../img/chalkboard.jpg) no-repeat;
+    border: 7px solid #cc464f;
+}
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
