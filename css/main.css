@@ -28,6 +28,17 @@ nav ul {
     border: 7px solid #cc464f;
 }
 
+#botd p.item {
+    font-family: 'Architects Daughter', cursive;
+    color: #ffe173;
+}
+
+#botd p.description,
+#botd p.price {
+    font-family: 'Roboto', sans-serif;
+    color: #ffe173;
+}
+
 .item {
     font-family: 'Architects Daughter', cursive;
     color: #2866a3;
