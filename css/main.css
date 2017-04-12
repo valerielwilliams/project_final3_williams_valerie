@@ -23,9 +23,18 @@ nav ul {
     background-color: #f4f4f0;
 }
 
+
 #botd {
     background: url(../img/chalkboard.jpg) no-repeat;
     border: 7px solid #cc464f;
+}
+
+#botd h2 {
+    font-family: "bobsburgers";
+    font-size: 4em;
+    font-weight: lighter;
+    color: #ffe173;
+    text-align: center;
 }
 
 #botd h3.item {
@@ -37,6 +46,14 @@ nav ul {
 #botd span.price {
     font-family: 'Roboto', sans-serif;
     color: #ffe173;
+}
+
+h2 {
+    font-family: "bobsburgers";
+    font-size: 4em;
+    font-weight: lighter;
+    color: #2866a3;
+    text-align: center;
 }
 
 .item {
@@ -60,22 +77,6 @@ nav ul {
     font-family: "bobsburgers";
     src: url("../fonts/bobsburgers.eot"); /* for IE compatibility because IE is horrible */
     src: url("../fonts/bobsburgers.woff2") format("woff2"), url("../fonts/bobsburgers.woff") format("woff"), url("../fonts/bobsburgers.ttf") format("truetype");
-}
-
-h2 {
-    font-family: "bobsburgers";
-    font-size: 4em;
-    font-weight: lighter;
-    color: #2866a3;
-    text-align: center;
-}
-
-#botd h2 {
-    font-family: "bobsburgers";
-    font-size: 4em;
-    font-weight: lighter;
-    color: #ffe173;
-    text-align: center;
 }
 
 .visuallyhidden {
@@ -144,4 +145,8 @@ footer a:hover {
     position: absolute;
     top: 120%;
     left: 68%;
+}
+
+#zucchini figcaption {
+    color: #ffe173;
 }
