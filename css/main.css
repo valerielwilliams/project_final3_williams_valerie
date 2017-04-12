@@ -77,6 +77,18 @@ h2 {
     left: 50%;
 }
 
+#Events_and_Book p {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1em;
+    text-align: center;
+
+    color: #2866a3;
+}
+
+.half {
+    color: #cc464f;
+}
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
