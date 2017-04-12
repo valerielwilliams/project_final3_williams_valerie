@@ -88,3 +88,10 @@ h2 {
     position: absolute;
     width: 1px;
 }
+
+footer {
+    background-color: #2866a3;
+    font-family: 'Roboto', sans-serif;
+    color: #f4f4f0;
+    text-align: center;
+}
