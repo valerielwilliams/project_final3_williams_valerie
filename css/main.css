@@ -50,6 +50,26 @@ nav ul {
     color: #2866a3;
 }
 
+/* fonts */
+@font-face {
+    font-family: "bobsburgers";
+    src: url("../fonts/bobsburgers.eot"); /* for IE compatibility because IE is horrible */
+    src: url("../fonts/bobsburgers.woff2") format("woff2"), url("../fonts/bobsburgers.woff") format("woff"), url("../fonts/bobsburgers.ttf") format("truetype");
+}
+
+h2 {
+    font-family: "bobsburgers";
+    font-size: 4em;
+    font-weight: lighter;
+    color: #2866a3;
+}
+
+#botd h2 {
+    font-family: "bobsburgers";
+    font-size: 4em;
+    font-weight: lighter;
+    color: #ffe173;
+}
 
 .visuallyhidden {
     border: 0;
