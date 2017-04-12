@@ -34,7 +34,7 @@ nav ul {
 }
 
 #botd p.description,
-#botd p.price {
+#botd span.price {
     font-family: 'Roboto', sans-serif;
     color: #ffe173;
 }
@@ -48,6 +48,11 @@ nav ul {
 .price {
     font-family: 'Roboto', sans-serif;
     color: #2866a3;
+}
+
+.price {
+    position: absolute;
+    left: 50%;
 }
 
 /* fonts */
