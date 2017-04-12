@@ -172,6 +172,7 @@ footer a:hover {
     #bobsburgers {
         width: 100%;
     }
+
     #botd h2 {
         font-size: 3em;
     }
@@ -186,7 +187,7 @@ footer a:hover {
 
     #zucchini {
         position: absolute;
-        top: 62%;
+        top: 67%;
         left: 60%;
     }
 
@@ -207,6 +208,14 @@ footer a:hover {
 
     figcaption {
         font-size: 0.75em;
+    }
+
+    #Events_and_Book p {
+        font-size: 1em;
+    }
+
+    footer {
+        font-size: 0.9em;
     }
 
 }
