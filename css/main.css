@@ -155,3 +155,46 @@ footer a:hover {
 #zucchini figcaption {
     color: #ffe173;
 }
+
+@media (min-width: 400px) {
+    #bobsburgers {
+        width: 100%;
+    }
+    #botd h2 {
+        font-size: 3em;
+    }
+
+    #botd h3.item {
+        font-size: 0.95em;
+    }
+
+    #zucchini1 {
+        width: 95%;
+    }
+
+    #zucchini {
+        position: absolute;
+        top: 62%;
+        left: 60%;
+    }
+
+    h2 {
+        font-size: 3em;
+    }
+
+    .item,
+    .description,
+    .price {
+        font-size: 1em;
+        width: 50%;
+    }
+
+    .pic {
+        width: 100%;
+    }
+
+    figcaption {
+        font-size: 0.75em;
+    }
+
+}
