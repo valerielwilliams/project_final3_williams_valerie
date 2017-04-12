@@ -134,3 +134,8 @@ footer a:active {
 footer a:hover {
     color: #cc464f;
 }
+
+#bacon {
+    position: absolute;
+    left: 68%;
+}
