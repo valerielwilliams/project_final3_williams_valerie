@@ -86,7 +86,7 @@ h2 {
     color: #2866a3;
 }
 
-.half {
+.halfoff {
     color: #cc464f;
 }
 
@@ -195,12 +195,15 @@ footer a:hover {
     h2 {
         font-size: 3em;
     }
-
-    .item,
-    .description,
-    .price {
-        font-size: 1em;
+    .half h3,
+    .half p {
+        font-size: 0.95em;
         width: 50%;
+    }
+
+    .nothalf h3,
+    .nothalf p {
+        font-size: 0.95em;
     }
 
     .pic {
