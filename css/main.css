@@ -113,3 +113,24 @@ figcaption {
     color: #2866a3;
     text-align: center;
 }
+
+/* links */
+a:link,
+a:visited,
+a:active {
+    color: #2866a3;
+}
+
+a:hover {
+    color: #cc464f;
+}
+
+footer a:link,
+footer a:visited,
+footer a:active {
+    color: #f4f4f0;
+}
+
+footer a:hover {
+    color: #cc464f;
+}
