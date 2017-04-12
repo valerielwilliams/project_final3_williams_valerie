@@ -95,3 +95,9 @@ footer {
     color: #f4f4f0;
     text-align: center;
 }
+
+#twitter,
+#facebook {
+    vertical-align: middle;
+    padding: 4px 0;
+}
