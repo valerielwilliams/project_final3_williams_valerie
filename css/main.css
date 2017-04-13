@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+header {
+    background: rgba(40, 102, 163, 0.75);
+}
+
 body {
     background: url(../img/storefront.png) repeat;
 }
