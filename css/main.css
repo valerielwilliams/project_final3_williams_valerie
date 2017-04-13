@@ -161,12 +161,14 @@ footer a:hover {
 .images {
     position: absolute;
     left: 68%;
+    padding-right: 1em;
 }
 
 #zucchini {
     position: absolute;
     top: 120%;
     left: 68%;
+    padding-right: 1em;
 }
 
 #zucchini figcaption {
@@ -191,7 +193,7 @@ footer a:hover {
     }
 
     #zucchini1 {
-        width: 95%;
+        width: 100%;
     }
 
     #zucchini {
