@@ -195,15 +195,15 @@ footer a:hover {
     h2 {
         font-size: 3em;
     }
-    .half h3,
-    .half p {
+
+    h3,
+    p {
         font-size: 0.95em;
-        width: 50%;
     }
 
-    .nothalf h3,
-    .nothalf p {
-        font-size: 0.95em;
+    .half h3,
+    .half p {
+        width: 50%;
     }
 
     .pic {
