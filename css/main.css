@@ -173,6 +173,10 @@ footer a:hover {
     color: #ffe173;
 }
 
+#chive {
+    border: 2px solid #cc464f;
+}
+
 @media (min-width: 400px) {
     #bobsburgers {
         width: 100%;
