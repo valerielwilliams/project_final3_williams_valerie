@@ -231,3 +231,9 @@ footer a:hover {
     }
 
 }
+
+@media (min-width: 1200px) {
+    #chive {
+        display: none;
+    }
+}
