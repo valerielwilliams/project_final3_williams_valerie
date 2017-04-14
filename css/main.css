@@ -201,7 +201,29 @@ footer a:hover {
 }
 
 @media (min-width: 900px) {
+    nav {
+        position: absolute;
+        top: 1%;
+        left: 19%;
+        font-family: "bobsburgers";
+        font-size: 1.75em;
+        font-weight: lighter;
+        padding-right: 0.5em;
+
+    }
+
     nav li {
         display: inline;
+    }
+
+    nav a:link,
+    nav a:visited,
+    nav a:active {
+        color: #f4f4f0;
+        text-decoration: none;
+    }
+
+    nav a:hover {
+        color: #a8ea55;
     }
 }
