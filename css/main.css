@@ -239,3 +239,16 @@ footer a:hover {
         width: 50%;
     }
 }
+
+@media (min-width: 1200px) {
+    nav {
+        position: absolute;
+        top: 0.5%;
+        left: 26%;
+        font-family: "bobsburgers";
+        font-size: 2em;
+        font-weight: lighter;
+        padding-right: 2em;
+
+
+}
