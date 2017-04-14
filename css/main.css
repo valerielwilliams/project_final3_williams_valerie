@@ -249,6 +249,10 @@ footer a:hover {
         font-size: 2em;
         font-weight: lighter;
         padding-right: 2em;
+    }
 
+    #about p {
+        font-size: 1.8em;
+    }
 
 }
