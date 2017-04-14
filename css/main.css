@@ -163,42 +163,9 @@ footer a:hover {
     padding-right: 1em;
 }
 
-#zucchini {
-    position: absolute;
-    top: 120%;
-    left: 68%;
-    padding-right: 1em;
-}
-
-#zucchini figcaption {
-    color: #ffe173;
-}
-
-#chive {
-    border: 2px solid #cc464f;
-}
-
 @media (min-width: 500px) {
     #bobsburgers {
         width: 100%;
-    }
-
-    #botd h2 {
-        font-size: 4em;
-    }
-
-    #botd h3.item {
-        font-size: 1em;
-    }
-
-    #zucchini1 {
-        width: 100%;
-    }
-
-    #zucchini {
-        position: absolute;
-        top: 128%;
-        left: 60%;
     }
 
     h2 {
