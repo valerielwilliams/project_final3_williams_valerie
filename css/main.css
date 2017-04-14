@@ -230,4 +230,12 @@ footer a:hover {
     #about p {
         font-size: 1.55em;
     }
+
+    #botd h3 {
+        font-size: 0.9em;
+    }
+
+    #burgers p {
+        width: 50%;
+    }
 }
