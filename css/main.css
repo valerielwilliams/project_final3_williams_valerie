@@ -82,7 +82,7 @@ h2 {
     left: 50%;
 }
 
-#Events_and_Book p {
+#events_and_book p {
     font-family: 'Architects Daughter', cursive;
     font-size: 1em;
     text-align: center;
@@ -223,7 +223,7 @@ footer a:hover {
         font-size: 0.75em;
     }
 
-    #Events_and_Book p {
+    #events_and_book p {
         font-size: 1.25em;
     }
 
