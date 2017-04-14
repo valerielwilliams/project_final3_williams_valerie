@@ -86,7 +86,6 @@ h2 {
     font-family: 'Architects Daughter', cursive;
     font-size: 1em;
     text-align: center;
-
     color: #2866a3;
 }
 
@@ -179,17 +178,17 @@ footer a:hover {
     border: 2px solid #cc464f;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 500px) {
     #bobsburgers {
         width: 100%;
     }
 
     #botd h2 {
-        font-size: 3em;
+        font-size: 4em;
     }
 
     #botd h3.item {
-        font-size: 0.95em;
+        font-size: 1em;
     }
 
     #zucchini1 {
@@ -198,17 +197,17 @@ footer a:hover {
 
     #zucchini {
         position: absolute;
-        top: 82%;
+        top: 128%;
         left: 60%;
     }
 
     h2 {
-        font-size: 3em;
+        font-size: 4em;
     }
 
     h3,
     p {
-        font-size: 0.95em;
+        font-size: 1em;
     }
 
     .half h3,
@@ -225,17 +224,11 @@ footer a:hover {
     }
 
     #Events_and_Book p {
-        font-size: 1em;
+        font-size: 1.25em;
     }
 
     footer {
-        font-size: 0.9em;
+        font-size: 0.75em;
     }
 
-}
-
-@media (min-width: 1200px) {
-    #chive {
-        display: none;
-    }
 }
