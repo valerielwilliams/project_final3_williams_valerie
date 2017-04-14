@@ -226,4 +226,8 @@ footer a:hover {
     nav a:hover {
         color: #a8ea55;
     }
+
+    #about p {
+        font-size: 1.55em;
+    }
 }
