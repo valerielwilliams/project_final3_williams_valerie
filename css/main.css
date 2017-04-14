@@ -50,6 +50,7 @@ p {
 #botd h3.item {
     font-family: 'Architects Daughter', cursive;
     color: #ffe173;
+    width: 50%;
 }
 
 #botd p.description,
@@ -231,12 +232,21 @@ footer a:hover {
         font-size: 1.55em;
     }
 
-    #botd h3 {
-        font-size: 0.9em;
+    h3,
+    p {
+        font-size: 1.2em;
     }
 
     #burgers p {
         width: 50%;
+    }
+
+    #events_and_book p {
+        font-size: 1.5em;
+    }
+
+    footer {
+        font-size: 1em;
     }
 }
 
