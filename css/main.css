@@ -16,6 +16,10 @@ body {
     background: url(../img/storefront.png) repeat;
 }
 
+#navMenu {
+    display: none;
+}
+
 nav ul {
     list-style-type: none;
     text-align: center;
@@ -165,6 +169,14 @@ footer a:hover {
 }
 
 @media (min-width: 500px) {
+    #navMenu {
+        display: none;
+    }
+
+    .js .slicknav_menu {
+        display: block;
+    }
+
     #bobsburgers {
         width: 100%;
     }
@@ -202,6 +214,14 @@ footer a:hover {
 }
 
 @media (min-width: 900px) {
+    #navMenu {
+        display: block;
+    }
+
+    .js .slicknav_menu {
+        display: none;
+    }
+
     nav {
         position: absolute;
         top: 1%;
@@ -251,6 +271,14 @@ footer a:hover {
 }
 
 @media (min-width: 1200px) {
+    #navMenu {
+        display: block;
+    }
+
+    .js .slicknav_menu {
+        display: none;
+    }
+
     nav {
         position: absolute;
         top: 0.5%;
