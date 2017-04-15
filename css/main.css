@@ -168,6 +168,17 @@ footer a:hover {
     padding-right: 1em;
 }
 
+/* back to top button */
+.cd-top.cd-is-visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.cd-top.cd-fade-out {
+    opacity: 0.5;
+}
+
+/* media queries */
 @media (min-width: 500px) {
     header,
     #navMenu {
