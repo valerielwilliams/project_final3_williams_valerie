@@ -219,20 +219,6 @@ footer a:hover {
     opacity: 1;
 }
 
-@media only screen and (min-width: 768px) {
-    .cd-top {
-        right: 20px;
-        bottom: 20px;
-    }
-}
-@media only screen and (min-width: 1024px) {
-    .cd-top {
-        height: 60px;
-        width: 60px;
-        right: 30px;
-        bottom: 30px;
-    }
-}
 
 /* media queries */
 @media (min-width: 500px) {
@@ -275,6 +261,11 @@ footer a:hover {
         font-size: 1.25em;
     }
 
+    .cd-top {
+        right: 20px;
+        bottom: 20px;
+    }
+
     footer {
         font-size: 0.75em;
     }
@@ -286,7 +277,7 @@ footer a:hover {
         display: block;
     }
 
-    .slicknav_menu {
+    .js .slicknav_menu {
         display: none;
     }
 
@@ -347,7 +338,7 @@ footer a:hover {
         display: block;
     }
 
-    .slicknav_menu {
+    .js .slicknav_menu {
         display: none;
     }
 
@@ -374,5 +365,12 @@ footer a:hover {
     }
     #teddy {
         width: 250px;
+    }
+
+    .cd-top {
+        height: 60px;
+        width: 60px;
+        right: 30px;
+        bottom: 30px;
     }
 }

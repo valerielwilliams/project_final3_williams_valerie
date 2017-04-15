@@ -3,6 +3,7 @@ $(function () {
     $('#navMenu').slicknav();
 });
 
+
 //back-to-top plugin
 jQuery(document).ready(function ($) {
     // browser window scroll (in pixels) after which the "back to top" link is shown
