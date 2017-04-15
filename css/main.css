@@ -214,12 +214,12 @@ footer a:hover {
 }
 
 @media (min-width: 900px) {
-    #navMenu {
-        display: block;
+    .slicknav_menu {
+        display: none;
     }
 
-    .js .slicknav_menu {
-        display: none;
+    #navMenu {
+        display: block;
     }
 
     nav {
@@ -271,12 +271,12 @@ footer a:hover {
 }
 
 @media (min-width: 1200px) {
-    #navMenu {
-        display: block;
+    .slicknav_menu {
+        display: none;
     }
 
-    .js .slicknav_menu {
-        display: none;
+    #navMenu {
+        display: block;
     }
 
     nav {
