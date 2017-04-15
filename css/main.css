@@ -215,6 +215,10 @@ footer a:hover {
 }
 
 @media (min-width: 900px) {
+    header {
+        display: block;
+    }
+
     .slicknav_menu {
         display: none;
     }
@@ -272,6 +276,10 @@ footer a:hover {
 }
 
 @media (min-width: 1200px) {
+    header {
+        display: block;
+    }
+
     .slicknav_menu {
         display: none;
     }
