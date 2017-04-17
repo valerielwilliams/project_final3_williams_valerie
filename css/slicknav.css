@@ -140,12 +140,6 @@
     margin: 0; }
 
 .slicknav_brand {
-  color: #eb2532;
-  font-family: "bobsburgers";
-  font-size: 34px;
-  font-weight: lighter;
-  border: 4px solid #eb2532;
-  background-color: yellow;
   line-height: 30px;
   padding: 5px 12px;
   height: 44px; }

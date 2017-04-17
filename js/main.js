@@ -3,6 +3,7 @@ $(function () {
     $('#navMenu').slicknav({
         closeOnClick: true
     });
+    $('.slicknav_menu').prepend('<div class="logo"></div>');
 });
 
 //smooth scrolling
