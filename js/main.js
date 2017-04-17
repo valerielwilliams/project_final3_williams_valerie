@@ -24,6 +24,6 @@ $(document).ready(function () {
 //custom jQuery code - shrinks logo on hover
 
 $('#bobslogo').hover(function () {
-    $(this).animate({width: 175}, 1200);
-    $(this).animate({width: 200}, 1200);
+    $(this).animate({width: 175}, 1500);
+    $(this).animate({width: 200}, 1500);
 });
