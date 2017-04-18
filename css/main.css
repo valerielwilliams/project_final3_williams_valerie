@@ -336,6 +336,11 @@ footer a:hover {
         font-size: 1.55em;
     }
 
+    #botd span.price {
+        position: absolute;
+        left: 82%;
+    }
+
     h3,
     p {
         font-size: 1.2em;
@@ -379,6 +384,11 @@ footer a:hover {
 
     #about p {
         font-size: 1.8em;
+    }
+
+    #botd span.price {
+        position: absolute;
+        left: 68%;
     }
 
     h3 {
