@@ -394,6 +394,11 @@ footer a:hover {
     h3 {
         font-size: 1.4em;
     }
+
+    figcaption {
+        font-size: 0.9em;
+    }
+
     #teddy {
         width: 250px;
     }
