@@ -14,6 +14,10 @@ html {
     float: left;
 }
 
+.logonav {
+    position: fixed;
+}
+
 header {
     background-color: #2866a3;
 }
