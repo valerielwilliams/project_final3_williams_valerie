@@ -102,6 +102,30 @@ h2 {
     left: 50%;
 }
 
+h2.secret {
+    font-family: "bobsburgers";
+    font-size: 4em;
+    font-weight: lighter;
+    color: #cc464f;
+    text-align: center;
+}
+
+.secretitem {
+    font-family: 'Architects Daughter', cursive;
+    color: #cc464f;
+}
+
+.secretdescription,
+.secretprice {
+    font-family: 'Roboto', sans-serif;
+    color: #cc464f;
+}
+
+.secretprice {
+    position: absolute;
+    left: 50%;
+}
+
 #events_and_book p {
     font-family: 'Architects Daughter', cursive;
     font-size: 1em;
