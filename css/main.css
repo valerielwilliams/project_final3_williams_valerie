@@ -62,13 +62,20 @@ p {
 #botd h3.item {
     font-family: 'Architects Daughter', cursive;
     color: #ffe173;
-    width: 50%;
+    text-align: center;
 }
 
-#botd p.description,
+#botd p.description {
+    font-family: 'Roboto', sans-serif;
+    color: #ffe173;
+    text-align: center;
+}
+
 #botd span.price {
     font-family: 'Roboto', sans-serif;
     color: #ffe173;
+    position: absolute;
+    left: 60%;
 }
 
 h2 {
