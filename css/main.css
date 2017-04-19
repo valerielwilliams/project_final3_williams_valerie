@@ -75,7 +75,7 @@ p {
     font-family: 'Roboto', sans-serif;
     color: #ffe173;
     position: absolute;
-    left: 60%;
+    left: 70%;
 }
 
 h2 {
@@ -322,7 +322,7 @@ footer a:hover {
     }
 
     footer {
-        font-size: 0.7em;
+        font-size: 0.68em;
     }
 
 }
@@ -370,14 +370,14 @@ footer a:hover {
         font-size: 1.55em;
     }
 
-    #botd span.price {
-        position: absolute;
-        left: 82%;
-    }
-
     h3,
     p {
         font-size: 1.2em;
+    }
+
+    #botd span.price {
+        position: absolute;
+        left: 82%;
     }
 
     #burgers p {
@@ -418,11 +418,6 @@ footer a:hover {
 
     #about p {
         font-size: 1.8em;
-    }
-
-    #botd span.price {
-        position: absolute;
-        left: 68%;
     }
 
     h3 {
