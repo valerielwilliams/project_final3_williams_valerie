@@ -8,6 +8,7 @@ html {
     box-sizing: inherit;
 }
 
+/* To add logo to the hamburger menu */
 .logo {
     content: url(../img/bobslogo.png);
     width: 30%;
@@ -49,6 +50,8 @@ p {
     padding-bottom: 2%;
 }
 
+
+/* styling of Burger of the Day */
 #botd {
     background: url(../img/chalkboard.jpg) no-repeat;
     border: 7px solid #cc464f;
@@ -111,6 +114,7 @@ h2.secret {
     text-align: center;
 }
 
+/* styling for Secret Menu */
 .secretitem {
     font-family: 'Architects Daughter', cursive;
     color: #cc464f;
