@@ -74,8 +74,6 @@ p {
 #botd span.price {
     font-family: 'Roboto', sans-serif;
     color: #ffe173;
-    position: absolute;
-    left: 70%;
 }
 
 h2 {
@@ -304,6 +302,11 @@ footer a:hover {
         width: 50%;
     }
 
+    #botd span.price {
+        position: absolute;
+        left: 65%;
+    }
+
     .pic {
         width: 100%;
     }
@@ -422,6 +425,11 @@ footer a:hover {
 
     h3 {
         font-size: 1.4em;
+    }
+
+    #botd span.price {
+        position: absolute;
+        left: 70%;
     }
 
     figcaption {
