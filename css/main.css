@@ -159,8 +159,18 @@ footer {
     background-color: #2866a3;
     font-family: 'Roboto', sans-serif;
     color: #f4f4f0;
+}
+
+footer ul {
+    list-style-type: none;
     text-align: center;
 }
+
+footer ul li {
+    display: inline;
+    padding: 0 1% 0 1%;
+}
+
 
 #twitter,
 #facebook {
@@ -312,7 +322,7 @@ footer a:hover {
     }
 
     footer {
-        font-size: 0.75em;
+        font-size: 0.7em;
     }
 
 }
