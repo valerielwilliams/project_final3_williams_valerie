@@ -300,19 +300,17 @@ footer a:hover {
         font-size: 1em;
     }
 
-    .half h3,
-    .half p {
-        width: 50%;
-    }
-
     #botd h3.item {
         font-size: 0.9em;
     }
 
-
     #botd span.price {
         position: absolute;
         left: 93%;
+    }
+    .half h3,
+    .half p {
+        width: 50%;
     }
 
     .pic {
@@ -386,9 +384,13 @@ footer a:hover {
         font-size: 1.2em;
     }
 
+    #botd h3.item {
+        font-size: 1.2em;
+    }
+
     #botd span.price {
         position: absolute;
-        left: 82%;
+        left: 85%;
     }
 
     #burgers p {
@@ -432,6 +434,10 @@ footer a:hover {
     }
 
     h3 {
+        font-size: 1.4em;
+    }
+
+    #botd h3.item {
         font-size: 1.4em;
     }
 
